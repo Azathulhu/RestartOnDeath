@@ -1,0 +1,7 @@
+Restarts your computer once you die.
+
+The source code can be found at https://github.com/RZOK/RestartOnDeath.
+
+The mod nor the creator is responsible for any lost data. 
+
+Save everything before using! 
