@@ -7,4 +7,6 @@ Does not work on Mac or Linux.
 
 By downloading and using the mod you are agreeing to the fact that the mod author nor the mod is responsible for and that you assume the risk of any lost data and that you are using this at your discretion and at your own risk. Save everything before using this!
 
+BSODOnDeath link: https://www.github.com/RZOK/BSODOnDeath
+
 Download link: https://www.mediafire.com/file/n9pcjs0dj5f6i5f/RestartOnDeath.tmod/file
