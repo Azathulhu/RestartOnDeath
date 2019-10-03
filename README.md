@@ -1,7 +1,5 @@
 # RestartOnDeath
-Restarts your computer whenever you die. More tame version of BSODOnDeath.
-
-A tModLoader mod for Terraria 1.3.5 that causes your PC to restart whenever you die.
+A tModLoader mod for Terraria 1.3.5 that causes your PC to restart whenever you die. More tame version of BSODOnDeath.
 
 Does not work on Mac or Linux.
 
